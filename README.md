@@ -18,10 +18,6 @@ A simple **Tic-Tac-Toe** game implemented in Java. This game allows two players 
    ```
 3. **Follow the prompts** to play the game.
 
-## Future Improvements
-- Implement a **draw condition** to detect when the board is full.
-- Add an **AI opponent** for single-player mode.
-- Improve **input handling** to prevent crashes from invalid inputs.
 
 Enjoy playing Tic-Tac-Toe! 🚀
 
